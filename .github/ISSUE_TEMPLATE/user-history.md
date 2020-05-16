@@ -2,7 +2,7 @@
 name: "✍ User history"
 about: A User history format to development
 title: 'Type your user history here'
-labels: 'type:User History'
+labels: 'type:User History✍'
 assignees: ''
 
 ---
