@@ -1,6 +1,6 @@
 ---
 name: "🚀 Feature request"
-about: Suggest an idea for improving Wagtail
+about: Suggest an idea for improving
 title: ''
 labels: 'type:Enhancement🚀'
 assignees: ''
