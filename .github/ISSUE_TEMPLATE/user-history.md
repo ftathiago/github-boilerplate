@@ -1,6 +1,6 @@
 ---
 name: "✍ User history"
-about: A User history format to development
+about: A User history format to development - For internals only
 title: 'Type your user history here'
 labels: 'type:User History✍'
 assignees: ''

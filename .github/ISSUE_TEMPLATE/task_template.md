@@ -1,6 +1,6 @@
 ---
 name: "👷 Task"
-about: A task to be done
+about: A task to be done - For internals only
 title: 'Type your task subject where (Refs: #999)'
 labels: 'type:Task👷'
 assignees: ''
