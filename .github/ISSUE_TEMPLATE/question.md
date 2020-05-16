@@ -2,7 +2,7 @@
 name: "⛔ Question"
 about: Please, check if you question has already opened
 title: ''
-labels: 'type:question'
+labels: 'type:Question'
 assignees: ''
 
 ---
