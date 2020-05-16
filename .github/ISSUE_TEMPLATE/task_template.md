@@ -2,7 +2,7 @@
 name: "👷 Task"
 about: A task to be done
 title: 'Type your task subject where (Refs: #999)'
-labels: 'type:task'
+labels: 'type:Task👷'
 assignees: ''
 
 ---
